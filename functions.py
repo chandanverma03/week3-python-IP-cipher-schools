@@ -118,7 +118,7 @@
 # }
 # print(max(student, key = lambda items:student[items]['score']))
 
-# advanced sorted function
+
 
 
 
