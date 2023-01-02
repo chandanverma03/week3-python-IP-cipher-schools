@@ -22,10 +22,10 @@
 # a = ['abc','defg','hijk']
 # for b,c in enumerate(a):
 #     print(f"{b} <----------> {c}")
-names = ['chandan','kritika','verma']
+names = ['chandan','asdfgf','verma']
 def common(name,target):
     for l,m in enumerate(name):
         if m == target:
             return l
     return -1
-print(common(names,'kritika'))
+print(common(names,'asdfgf'))
